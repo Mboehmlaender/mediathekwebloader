@@ -33,18 +33,6 @@ Nur strukturierte Auswahl und Übergabe.
 
 ---
 
-## 🧠 Idee
-
-`mediathekwebloader` ist eine Brücke:
-
-```
-Öffentliche Indexdaten → Deine Auswahl → pyLoad → Dein Speicher
-```
-
-Die Anwendung automatisiert lediglich Schritte, die technisch auch manuell möglich wären.
-
----
-
 ## 🛠 Architektur
 
 * Backend: Python
