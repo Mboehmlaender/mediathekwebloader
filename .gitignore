@@ -4,3 +4,5 @@ __pycache__/
 *.pyc
 data/pyload_settings.json
 data/pyload_secret.key
+
+frontend/
